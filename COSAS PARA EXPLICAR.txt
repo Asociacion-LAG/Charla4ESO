@@ -1,0 +1,5 @@
+Manejo de modulos
+Diferencia entre bucle y recorrido
+Uso de condicionales (if-else o switch)
+Tipos de datos (Basicos, Arrays y Estructuras)
+Si hay algo mas se añade aqui

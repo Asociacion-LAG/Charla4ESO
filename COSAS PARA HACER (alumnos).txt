@@ -1,0 +1,9 @@
+Main.cpp: Completar comprobar_win
+-Columnas
+-Diagonal 00-11-22
+
+Jugador.cpp: Hacer poner_nombre_jugador2
+
+Tablero.cpp: Hacer dibuja_ficha
+
+cpu.cpp:: Incluir el encabezado del propio modulo
