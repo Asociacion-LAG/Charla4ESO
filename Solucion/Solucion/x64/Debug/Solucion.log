@@ -1,0 +1,8 @@
+﻿  cpu.cpp
+C:\Users\rodri\Documents\Universidad\LAG - Universidad\Charla4ESO\Solucion\Solucion\cpu.cpp(13,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  jugador.cpp
+  main.cpp
+C:\Users\rodri\Documents\Universidad\LAG - Universidad\Charla4ESO\Solucion\Solucion\main.cpp(29,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  tablero.cpp
+  Generando código...
+  Solucion.vcxproj -> C:\Users\rodri\Documents\Universidad\LAG - Universidad\Charla4ESO\Solucion\x64\Debug\Solucion.exe
